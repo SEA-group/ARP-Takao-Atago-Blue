@@ -1,0 +1,20 @@
+<JAF017_Mitsubishi_A6M2_N_float.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/aircraft/JAF017_Mitsubishi_A6M2_N_float_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/aircraft/default_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/aircraft/JAF017_Mitsubishi_A6M2_N_float_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/aircraft/JAF017_Mitsubishi_A6M2_N_float_a.tga	</Texture>
+	</property>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+</JAF017_Mitsubishi_A6M2_N_float.mfm>
