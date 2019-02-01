@@ -1,1 +1,13 @@
-<JGT017_610mm4_Type_93L_dead_lod1.model><castsShadow>true</castsShadow><extent>4.000000</extent><parent>PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/JGT017_610mm4_Type_93L_dead_lod2</parent><materialNames /><visibilityBox><min>-0.195287 0.000000 -0.262873</min><max>0.131382 0.100896 0.367956</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/JGT017_610mm4_Type_93L_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JGT017_610mm4_Type_93L_dead_lod1.model>
+<JGT017_610mm4_Type_93L_dead_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	4.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/JGT017_610mm4_Type_93L_dead_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.195287 0.000000 -0.262873	</min>
+		<max>	0.131382 0.100896 0.367956	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/JGT017_610mm4_Type_93L_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT017_610mm4_Type_93L_dead_lod1.model>
