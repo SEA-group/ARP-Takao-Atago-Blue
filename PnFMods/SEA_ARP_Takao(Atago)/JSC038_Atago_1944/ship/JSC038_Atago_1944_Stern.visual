@@ -20,6 +20,15 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	Torp	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Stern_crack_MidBack	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -60,9 +69,17 @@
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Torp	</node>
+		<geometry>
+			<vertices>	Torp.vertices	</vertices>
+			<primitive>	Torp.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_SternTorp	</identifier>
+					<identifier>	SHIPMAT_PBS_TorpX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_TorpSt.mfm	</mfm>
 				</material>
 			</primitiveGroup>

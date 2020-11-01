@@ -1,7 +1,7 @@
 <JD011_Director_Type_95_Mod3.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/JD011_Director_Type_95_Mod3_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/lods/JD011_Director_Type_95_Mod3_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.072036 0.000000 -0.073889	</min>

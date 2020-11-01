@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/radar/JRS007_Radar_Type_22_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/radar/lods/JRS007_Radar_Type_22_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.050915 0.000223 -0.069984	</min>

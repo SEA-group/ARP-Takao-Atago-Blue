@@ -29,6 +29,24 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	Bottom	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Window	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_crack_Bow	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -81,6 +99,15 @@
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
+				<node>
+					<identifier>	Bottom_patch	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 			<node>
 				<identifier>	MidFront_patch_MidBack_DeckHouse	</identifier>
@@ -123,18 +150,6 @@
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Windows	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Win.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	2
-				<material>
-					<identifier>	SHIPMAT_PBS_Bottom	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Bot.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -147,6 +162,48 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bottom	</node>
+		<geometry>
+			<vertices>	Bottom.vertices	</vertices>
+			<primitive>	Bottom.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_BottomX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Bot.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bottom_patch	</node>
+		<geometry>
+			<vertices>	Bottom_Patch.vertices	</vertices>
+			<primitive>	Bottom_Patch.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_BottomX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Bot.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Window	</node>
+		<geometry>
+			<vertices>	Window.vertices	</vertices>
+			<primitive>	Window.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_WindowX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Win.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -231,12 +288,6 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Bottom	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Bot.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

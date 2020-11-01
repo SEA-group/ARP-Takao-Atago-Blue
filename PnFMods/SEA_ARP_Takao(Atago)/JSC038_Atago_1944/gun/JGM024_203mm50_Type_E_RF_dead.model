@@ -1,7 +1,7 @@
 <JGM024_203mm50_Type_E_RF_dead.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/JGM024_203mm50_Type_E_RF_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/gun/lods/JGM024_203mm50_Type_E_RF_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.237261 -0.000000 -0.366509	</min>

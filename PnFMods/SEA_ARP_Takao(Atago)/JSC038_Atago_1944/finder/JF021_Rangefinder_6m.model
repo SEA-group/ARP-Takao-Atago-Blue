@@ -1,7 +1,7 @@
 <JF021_Rangefinder_6m.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/finder/JF021_Rangefinder_6m_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/finder/lods/JF021_Rangefinder_6m_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.215774 -0.000000 -0.063435	</min>
