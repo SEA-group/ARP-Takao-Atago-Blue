@@ -65,7 +65,7 @@
 			<primitive>	Stern_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -79,7 +79,7 @@
 			<primitive>	Torp.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_TorpX	</identifier>
+					<identifier>	SHIPMATX_PBS_TorpX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_TorpSt.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -93,7 +93,7 @@
 			<primitive>	Stern_crack_MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -107,7 +107,7 @@
 			<primitive>	Stern_crack_MidBack_in_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -121,7 +121,7 @@
 			<primitive>	Stern_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull_RemovedWire	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull_RemovedWire	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/DoesNotExist.mfm	</mfm>
 				</material>
 			</primitiveGroup>

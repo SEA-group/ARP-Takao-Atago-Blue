@@ -66,7 +66,7 @@
 			<primitive>	Director_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_director	</identifier>
+					<identifier>	SHIPMATX_PBS_director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/JD011_Director_Type_95_Mod3_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

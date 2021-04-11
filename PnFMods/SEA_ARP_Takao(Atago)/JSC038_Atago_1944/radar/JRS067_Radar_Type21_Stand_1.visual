@@ -84,7 +84,7 @@
 			<primitive>	RadarStandShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/radar/JM067_Radar_21_Stand_1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -112,7 +112,7 @@
 			<primitive>	RadarShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/radar/JRS002_Radar_Type_21_2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

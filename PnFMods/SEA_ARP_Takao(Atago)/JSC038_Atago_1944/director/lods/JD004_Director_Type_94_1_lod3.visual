@@ -56,7 +56,7 @@
 			<primitive>	JD004_Director_Type_94_1_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/JD004_Director_Type_94_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

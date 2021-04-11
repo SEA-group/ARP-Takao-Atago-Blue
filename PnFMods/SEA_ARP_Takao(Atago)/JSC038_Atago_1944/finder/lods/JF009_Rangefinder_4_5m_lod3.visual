@@ -29,7 +29,7 @@
 			<primitive>	JF0014_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/finder/JF009_Rangefinder_4_5.mfm	</mfm>
 				</material>
 			</primitiveGroup>

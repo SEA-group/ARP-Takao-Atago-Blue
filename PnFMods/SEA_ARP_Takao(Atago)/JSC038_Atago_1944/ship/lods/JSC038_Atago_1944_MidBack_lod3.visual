@@ -128,7 +128,7 @@
 			<primitive>	MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -142,7 +142,7 @@
 			<primitive>	KPU_Shell.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_KPU_Shell	</identifier>
+					<identifier>	SHIPMATX_PBS_KPU_Shell	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull_KPU_Mk2_Shell.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -156,7 +156,7 @@
 			<primitive>	KPU_Core.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_KPU_Core	</identifier>
+					<identifier>	SHIPMATX_PBS_KPU_Core	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull_KPU_Mk2_Space_Core.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -170,7 +170,7 @@
 			<primitive>	Bottom.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BottomX	</identifier>
+					<identifier>	SHIPMATX_PBS_BottomX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Bot.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -184,7 +184,7 @@
 			<primitive>	MidBack_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -198,7 +198,7 @@
 			<primitive>	MidBack_crack_MidFront_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Deck_house.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -212,7 +212,7 @@
 			<primitive>	MidBack_crack_MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -226,7 +226,7 @@
 			<primitive>	MidBack_crack_MidFront_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -240,7 +240,7 @@
 			<primitive>	MidBack_crack_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -254,7 +254,7 @@
 			<primitive>	MidBack_crack_Stern_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -268,7 +268,7 @@
 			<primitive>	MidBack_patch_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -282,7 +282,7 @@
 			<primitive>	MidBack_wire_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull_RemovedWire	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull_RemovedWire	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/ship/DoesNotExist.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -85,7 +85,7 @@
 			<primitive>	JRS007_Radar_Type_22_L_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/radar/JRS007_Radar_Type_22_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

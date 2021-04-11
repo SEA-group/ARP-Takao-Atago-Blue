@@ -65,7 +65,7 @@
 			<primitive>	JD004_Director_Type_94_1_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/JD004_Director_Type_94_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -79,7 +79,7 @@
 			<primitive>	JD022_Director_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Takao(Atago)/JSC038_Atago_1944/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
