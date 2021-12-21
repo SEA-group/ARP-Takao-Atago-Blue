@@ -1,95 +1,91 @@
 <JAF017_Mitsubishi_A6M2_N.visual>
-	<boundingBox>
-		<min>	-0.399679 -0.006855 -0.407119	</min>
-		<max>	0.399679 0.279672 0.264181	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	hull	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
-				<identifier>	mod	</identifier>
+				<identifier>	HP_Air_gunfire_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0138 0.1989 0.0842 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	propeller_mod	</identifier>
+				<identifier>	HP_Air_gunfire_2	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000159 0.162669 0.148274 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0138 0.1989 0.0842 1.0000	</row3>
 				</transform>
-				<node>
-					<identifier>	disc	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-					</transform>
-					<node>
-						<identifier>	disc_cap	</identifier>
-						<transform>
-							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-						</transform>
-					</node>
-				</node>
 			</node>
 			<node>
-				<identifier>	float_mod	</identifier>
+				<identifier>	hull_float	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	hull_wire	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_gunFireFront2	</identifier>
+				<identifier>	mod	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.013807 0.198890 0.084208 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_gunFireFront1	</identifier>
+				<identifier>	propeller_mod	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.013779 0.198890 0.084208 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0002 0.1627 0.1483 1.0000	</row3>
 				</transform>
+				<node>
+					<identifier>	disc	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+					<node>
+						<identifier>	disc_cap	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+							<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+						</transform>
+					</node>
+				</node>
 			</node>
 		</node>
 	</node>
@@ -151,7 +147,7 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	float_mod	</node>
+		<node>	hull_float	</node>
 		<geometry>
 			<vertices>	float_modShape.vertices	</vertices>
 			<primitive>	float_modShape.indices	</primitive>
@@ -177,4 +173,8 @@
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
+	<boundingBox>
+		<min>	-0.3997 -0.0069 -0.4071	</min>
+		<max>	0.3997 0.2797 0.2642	</max>
+	</boundingBox>
 </JAF017_Mitsubishi_A6M2_N.visual>
